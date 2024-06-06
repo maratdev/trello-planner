@@ -182,3 +182,29 @@ d
 4src/app/app/tasks/kanban-view/KanbanView.module.scss,3\a\3a9c89ceb438190ea680d94dd9783eb10f329d55
 d
 4src/app/app/tasks/kanban-view/KanbanAddCardInput.tsx,c\9\c96b08dd9ed339fa4979a3be55f69bdbaa1e6c1b
+P
+ src/app/app/timer/timer.types.ts,8\8\880dea03fa180c09cc94f17b4df8cb29d7ff0200
+N
+src/app/app/timer/Pomodoro.tsx,8\1\8193969c6cbc901e268397c6e34b90efa17baf82
+Y
+)src/app/app/timer/hooks/useUpdateRound.ts,d\d\dd42e458e3ae9f81232aaa2c1c9fb3a4bbb82886
+Z
+*src/app/app/timer/hooks/useLoadSettings.ts,a\a\aa2c808d40f77f63f7cd1627a89eb3792c2fb543
+S
+#src/app/app/timer/hooks/useTimer.ts,2\2\22b4e5f759f6ed051786703328f6e41a4ea22de6
+Z
+*src/app/app/timer/hooks/useTodaySession.ts,8\0\804f71564d65111d07824ea870dc579acf8c1770
+Z
+*src/app/app/timer/hooks/useTimerActions.ts,8\1\81f1d382f64d570f493afd75c7b278a1712560bb
+[
++src/app/app/timer/hooks/useDeleteSession.ts,8\2\825c183ca331ca896489d4cb0c6530484b5a562d
+c
+3src/app/app/timer/rounds/PomodoroRounds.module.scss,2\5\251a0511476c039dd00febb65b14354745287b89
+[
++src/app/app/timer/rounds/PomodoroRounds.tsx,1\3\13f46d496a1db7bd0dda8d6db3eee16b33b22fcd
+J
+src/app/app/timer/page.tsx,7\e\7ec671c4bdb41d9ad46df5416f7aee27a7b0279f
+P
+ src/app/app/timer/format-time.ts,4\d\4df30a1ce71783f2faf13c5f2cd0479e4521360e
+[
++src/app/app/timer/hooks/useCreateSession.ts,1\b\1b7d0869133bb72410cc142b71edcee339639aad
