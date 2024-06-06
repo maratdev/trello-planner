@@ -38,13 +38,12 @@ const Auth = () => {
 				onSubmit={handleSubmit(onSubmit)}
 			>
 				<Heading title="Auth" />
-
 				<Field
 					id="email"
 					label="Email:"
 					placeholder="Enter email:"
 					type="email"
-					extra="mb-4"
+					extra="mb-6"
 					{...register('email', {
 						required: 'Email is required!',
 					})}
@@ -60,6 +59,8 @@ const Auth = () => {
 					})}
 					extra="mb-6"
 				/>
+
+
 
 				<div className="flex items-center gap-5 justify-center">
 					<Button onClick={() => setIsLoginForm(true)}>Login</Button>
